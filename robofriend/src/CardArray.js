@@ -1,6 +1,5 @@
 import React from 'react';
 import Card from './Card';
-import Robots from './robots';
 
 const CardArray = ({robots}) => {
 
